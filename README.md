@@ -12,6 +12,23 @@ In research phase, everything below is preliminary:
 2. Rocket Pool
 3. Diva
    Hasn’t launched yet. They will be a dvt focused lst with permissionless nodes
+   Staking Tool (rather than protocol)
+   LST passive or NO for additional rewards
+   Diva is tool built on DVT tech (sort of like a layer 2 validation)
+   6-28 DAO launch - governance tokens initially airdropped to community (non-transferrable, no value)
+   Mainnet Q4 2023
+   non-custodial NO responsibility - key is distributed
+   Low skill to inplement
+   no MEV, penalties yet, etc.
+   validators find others on their own to DVT with
+   All ETH is staked ... either get LST back or lockto get keysfor validaintg
+     if lock you get additional rewards
+   could share with RP node
+   3.5 million raised
+   Diva like SSV, will search for available validators, if you lock you will get picked for validating (obol unlike ssav is people pick each otehr to validate with)
+   with single ETH can lock to be part of validators
+   community will decide if they should self-limit
+   no DAO fee, stakers get 90% NOs 10% should be better rewards than Lido since DVT allows more uptime/efficiency etc.
 5. Swell
 6. Stader
    Not in operation, yet.
